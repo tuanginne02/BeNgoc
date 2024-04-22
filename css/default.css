@@ -75,3 +75,13 @@ a {
 .space {
   margin-right: 150px;
 }
+@media screen and (max-width: 765px) {
+  #text {
+    position: absolute;
+    bottom: 0;
+    width: 80px;
+    height: 105px;
+    left: 15px;
+    top: 20px;
+  }
+}
